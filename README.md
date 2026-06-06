@@ -133,8 +133,8 @@ com.inventory
 Java Full Stack Developer (Student Project)
 
 - Email: nm.tunje@gmail.com  
-- GitHub: *(add your link)*  
-- LinkedIn: *(add your link)*  
+- GitHub: https://github.com/tunjenicholas  
+- LinkedIn: www.linkedin.com/in/nicholas-tunje-603b09294  
 
 ---
 
